@@ -1,2 +1,5 @@
 # Nix-Den (hehe den because fox)
-My Nixos configs; will be pretty blank till I can finish up with reading the Nix thesis (The Purely Functional Software Distribution Model). but after that I might start up something interesting so I guess 'watch this space' if that's your thing though its probably going to be highly opinionated (and fluctuating)
+
+About how I said I was going to read the thesis first (she says as if its likely anyone's seen this)... well, I did not :( 
+Though I am working through it - I realised that I kinda need a working neovim/LaTeX config for some work stuff so good? news
+Also, though no one cares I have had the ultimate betrayal!! (Hyphanet paper I was reading was the wrong version so of course ended up wasting some time being annoyed about it)
