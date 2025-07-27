@@ -29,17 +29,17 @@ To do list, yoinked and minorly edited from ['the ricing guide' by namish pande]
 
 #### todo: pre-install
 
-- [ ] Choosing a window manager
-- [ ] Terminal
-- [ ] The Aesthetics/vibes
-- [ ] Colorschemes
+- [x] Choosing a window manager (hyprland main for now, testing w/ river)
+- [x] Terminal (alacritty and testing ghostty)
+- [x] The Aesthetics/vibes (cozy)
+- [ ] Colorschemes (autumn theme but specific not chosen)
 - [ ] Icons and Cursors 
 - [ ] Wallpapers (Xen says -> "why so much AI slop... the lorax would be sad"[^4])
 - [ ] Firefox custom CSS <- (of course she uses firefox sigh) + startup page etc
 - [ ] Compositing
 - [ ] The Bars And Widgets
 - [ ] Terminal Eyecandy
-- [ ] Figure out general Directory structure <- **will be a link to the wiki once done**
+- [x] Figure out general Directory structure [mostly](../../wiki/Config‐Directory-plan)
 
 On top of this there are a few more substantial things which will need to be planned after the basics of the above are put into action. 
 
