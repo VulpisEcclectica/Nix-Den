@@ -9,7 +9,7 @@ Welcome; these are the configs for my nix system and acompanying scripts and stu
    to say :3
  - Despite what some of the configs may imply I am not plural[^2] as far as i'm aware so if you have system questions I am not the one to answer them sorry! (though can answer some
    on _systems_ in the computer sense)
-
+ - It's all just placeholders (.gitkeep) for now 
 Ok, now we've got all that out of the way what am I actually planning – I'll talk about the further details in the next [section](#get-to-the-point-already!!) but in summary this is my _personal, subjective_ nix config for my main desktop, if your looking for my homelab one it'll be linked [here](#) once I actually start working on it. Here I will write (lit + academic stuff, for ease they'll probably be the same profile at least for now), program, commit sins against machine and flesh alike, etc, etc. It's supposed to be moderately modular and I plan on making scripts to semi-automate the process of switching stuff (prob either shell or C as thats what i have a lil experience in rn).  
 
 [^1]: I actually forgot what this footnote was for... here incase I remember 
