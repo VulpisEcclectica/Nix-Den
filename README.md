@@ -38,7 +38,7 @@ To do list, yoinked and minorly edited from ['the ricing guide' by namish pande]
 - [ ] Firefox custom CSS <- (of course she uses firefox sigh) + startup page etc
 - [ ] Compositing
 - [ ] The Bars And Widgets
-- [ ] Terminal Eyecandy
+- [X] Terminal Eyecandy <- Cava, lazy-git/nvim (as the status states, eepy!), cargo-mommy etc
 - [x] Figure out general Directory structure [mostly](../../wiki/Config‐Directory-plan)
 
 On top of this there are a few more substantial things which will need to be planned after the basics of the above are put into action. 
@@ -50,10 +50,10 @@ On top of this there are a few more substantial things which will need to be pla
       - [ ] nixvim + latex
       - [ ] figure out what is needed for C, Rust, ASM, Html/CSS/md
       - [ ] RSS reader
-      - [ ] lazygit + other git configs
-      - [ ] Any small (hehe) extras
-  - [ ] planning for scripts to manage profile/wallpaper/etc switching <- (shell or C [C would make file rw easier])
-  - [ ] plan how profiles/shells/etc will be formated
+      - [X] lazygit + other git configs
+      - [X] Any small (hehe) extras <- a few (see terminal eyecandy above)
+  - [ ] planning for scripts to manage profile/wallpaper/etc switching <- (shell most likely maybe rust eventually!)
+  - [X] plan how profiles/shells/etc will be formated <- Work/play/write + extra status effects!
 - do
   -  [ ] impliment dirs
   -  [ ] write Nix-lang for the apps profiles above | each profile
@@ -66,9 +66,11 @@ On top of this there are a few more substantial things which will need to be pla
     -  [ ] programming
   -  [ ] write scripts for switching
 
-All this I also hope to document properly ("why if you're scared of people?" you may ask, answer -> because I have rubbish memory). For now I think this is all, while I work through that I'll write about it below and in the repo wiki!
+All this I also hope to document properly ("why if you're scared of people?" you may ask, answer => because I have rubbish memory). For now I think this is all, while I work through that I'll write about it below and in the repo wiki!
 
 [^4]: I myself am rather sad about it, not just because of the ethical issues (pretty much all because of capitalism) but also since... it seems to be the interest of every new techie which leaves those of us only just entering academia – yet who find gen-AI not that interesting (I personally much prefer weird alt internets; freenet, i2p, hyphanet, etc) – in a bit of a metaphorical pickle as courses are moving to be more focused on gen-AI and while I am all for personal research it is a litle harder to share work – that ive seen without some degree
 
 #Finally!! at last doing stuff
 _______________________________________________________
+
+Ok so, starting with the directory structure we can already see just a bit of scope crawl, I think I am going to set up a gh pages or something similar that I can later migrate to a self hosted blog to stand in for the wiki as it begins to grow!
